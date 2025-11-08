@@ -1,10 +1,10 @@
-# 🧱 Simple To-Do Console Application (C++)
+# Simple To-Do Console Application (C++)
 
 A terminal-based To-Do list manager built with raw C++ and a minimal Makefile — designed as a hands-on exercise in applying the **SOLID principles** of object-oriented design.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project was built to practice and demonstrate the **SOLID principles** in C++:
 
@@ -16,7 +16,7 @@ This project was built to practice and demonstrate the **SOLID principles** in C
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add, view, complete, and delete tasks
 - Persistent storage using plain text
@@ -26,7 +26,7 @@ This project was built to practice and demonstrate the **SOLID principles** in C
 
 ---
 
-## 🛠️ Build Instructions
+## Build Instructions
 
 ### Prerequisites
 
